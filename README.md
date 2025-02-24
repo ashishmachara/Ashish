@@ -20,10 +20,16 @@
         <h2><a href="post1.html">First Blog Post</a></h2>
         <p>Welcome to my blog! This is a short introduction to my first post.</p>
     </article>
+    
+    <article>
+        <h2><a href="post2.html">Second Blog Post</a></h2>
+        <p>This is my second post. Stay tuned for more updates.</p>
+    </article>
 </main>
 
 <footer>
     <p>&copy; 2025 My Blog. All rights reserved.</p>
+    <p>Follow me on <a href="#">Twitter</a> | <a href="#">Instagram</a></p>
 </footer>
 
 </body>
